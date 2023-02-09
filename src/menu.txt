@@ -1,0 +1,12 @@
+
+    Makanan                         Minuman
+1. Gado-gado                    1. Coca-cola
+2. Lontong sayur                2. Soda gembira
+3. Kupat tahu                   3. Teh manis
+4. Sate kambing                 4. Milo
+5. Sate ayam                    5. Hilo
+6. Batagor                      6. Jus jeruk
+7. Ayam geprek                  7. Jus Jambu
+8. Mie ayam                     8. Fanta
+9. Bakso urat                   9. Teh tarik
+10. Soto ayam                   10. Kopi hitam
