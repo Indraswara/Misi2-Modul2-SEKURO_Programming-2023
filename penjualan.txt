@@ -1,0 +1,15 @@
+
+Nama Pembeli    : indra
+Menu            : Bakso urat
+Jumlah          : 2
+Total Harga     : 32000
+
+Nama Pembeli    : indra
+Menu            : Lontong sayur 
+Jumlah          : 3
+Total Harga     : 45000
+
+Nama Pembeli    : indra
+Menu            : Teh manis 
+Jumlah          : 5
+Total Harga     : 25000
